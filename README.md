@@ -18,8 +18,6 @@
 
 * More people to collaborate with. 
 
-## 📬 How to reach me:
 
-* Send me a message on [LinkedIn](https://www.linkedin.com/in/landonwjohnson/)!
 
 
