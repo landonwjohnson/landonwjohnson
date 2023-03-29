@@ -19,9 +19,10 @@
 * More people to collaborate with. 
 
 ## Connect with me
-[YouTube Channel](https://www.youtube.com/channel/UCSL8U9S-SurzEYi0eHpXkTg?sub_confimation=1)
-[Instagram](https://instagram.com/landonjohnson.dev)
-[Twitter](https://twitter.com/landonwjohnson)
+
+- [YouTube Channel](https://www.youtube.com/channel/UCSL8U9S-SurzEYi0eHpXkTg?sub_confimation=1)
+- [Instagram](https://instagram.com/landonjohnson.dev)
+- [Twitter](https://twitter.com/landonwjohnson)
 
 
 
