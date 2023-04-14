@@ -10,7 +10,7 @@
 
 ## 🔍 I'm currently seeking:
 
-* A iOS Developer Position 
+* An iOS Developer Position 
 * More people to collaborate with.
 
 ## Connect with me
