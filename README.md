@@ -3,11 +3,6 @@
 
 # Hello! I am  [Landon Johnson](https://www.linkedin.com/in/landonwjohnson/)! ✨
 
-## 👀 I'm currently working on:
-
-* iOS & Android applications in React Native
-* Projects in NextJS
-
 ## ⚡ I'm currently learning:
 
 * PHP Laravel
