@@ -5,9 +5,8 @@
 
 ## ⚡ I'm currently learning:
 
-* PHP Laravel
-* Python Flask
-* XCode and Swift
+* SwiftUI
+* React Native Web
 
 ## 🔍 I'm currently seeking:
 
