@@ -20,6 +20,7 @@
 - [Twitter](https://bit.ly/landonwjohnson-on-twitter)
 - [Facebook](https://bit.ly/landon-design-and-development-facebook)
 - [Behance](https://bit.ly/3okz5Ut)
+- [LinkedIn](https://bit.ly/landon-johnson-on-linkedin)
 
 ## Npm Packages I have created
 - [Collect Exports For Bundle](https://github.com/Devlander-Software/collect-exports-for-bundle)
