@@ -11,12 +11,14 @@
 ## 🔍 I'm currently seeking:
 
 * More people to collaborate with.
+* Remote work
 
 ## Connect with me
 
-- [YouTube Channel](https://www.youtube.com/channel/UCSL8U9S-SurzEYi0eHpXkTg?sub_confimation=1)
-- [Instagram](https://instagram.com/landonjohnson.dev)
-- [Twitter](https://twitter.com/landonwjohnson)
+- [YouTube Channel](https://bit.ly/47otldB)
+- [Instagram](https://bit.ly/landonjohnsondev-on-instagram)
+- [Twitter](https://bit.ly/landonwjohnson-on-twitter)
+- [Facebook](https://bit.ly/landon-design-and-development-facebook)
 
 ## Npm Packages I have created
 - [Collect Exports For Bundle](https://github.com/Devlander-Software/collect-exports-for-bundle)
