@@ -43,7 +43,5 @@
 - [LinkedIn](https://bit.ly/landon-johnson-on-linkedin)
 
 
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonwjohnson&layout=compact)
 
