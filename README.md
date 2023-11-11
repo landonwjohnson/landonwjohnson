@@ -42,7 +42,7 @@
 - [Behance](https://bit.ly/3okz5Ut)
 - [LinkedIn](https://bit.ly/landon-johnson-on-linkedin)
 
-## Wakatime Stats (for personal repos)
+## Wakatime Stats 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonwjohnson&layout=compact)
 
