@@ -20,7 +20,7 @@
 ## Here's are npm packages I have published
 - [Collect Exports For Bundle](https://github.com/Devlander-Software/collect-exports-for-bundle)
 - [Package JSON Helper](https://github.com/Devlander-Software/package-json-helper)
-- [Utilities Collection]([https://github.com/Devlander-Software/package-json-helpe](https://github.com/Devlander-Software/utils)
+- [Utilities Collection](https://github.com/Devlander-Software/utils)
 
 ## ⚡ I'm currently learning:
 
