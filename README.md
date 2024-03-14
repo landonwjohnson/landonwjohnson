@@ -29,10 +29,10 @@
 # Hello! I am  [Landon Johnson](https://www.linkedin.com/in/landonwjohnson/)! ✨
 
 ## Here's are npm packages I have published
-- [Collect Exports For Bundle](https://github.com/Devlander-Software/collect-exports-for-bundle)
-- [Package JSON Helper](https://github.com/Devlander-Software/package-json-helper)
-- [Utilities Collection](https://github.com/Devlander-Software/utils)
-- [React Hooks Collection](https://github.com/Devlander-Software/hooks)
+- [Collect Exports For Bundle](https://bit.ly/collect-exports-for-bundle)
+- [Package JSON Helper](https://bit.ly/package-json-helper)
+- [Utilities Collection](https://bit.ly/3PnEnJE)
+- [React Hooks Collection](https://bit.ly/3Pn4QH3)
 
 ## ⚡ I'm currently learning:
 
