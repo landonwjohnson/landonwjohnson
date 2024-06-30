@@ -53,11 +53,6 @@ I'm a passionate developer dedicated to creating helpful tools, content, and com
 ## 📢 Connect with Me on Social Media:
 
 - [YouTube Channel](https://bit.ly/47otldB)
-- [Instagram](https://bit.ly/landonjohnsondev-on-instagram)
-- [Twitter](https://bit.ly/landonwjohnson-on-twitter)
-- [Facebook](https://bit.ly/landon-design-and-development-facebook)
-- [Behance](https://bit.ly/3okz5Ut)
-- [LinkedIn](https://bit.ly/landon-johnson-on-linkedin)
 
 ## 🏆 Wakatime Stats
 
