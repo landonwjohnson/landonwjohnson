@@ -19,15 +19,10 @@ Welcome to my GitHub space where I share projects, resources, and updates to hel
   </tr>
 </table>
 
-## 🌟 Stay Connected with Landon Johnson
 
-<a href="https://bit.ly/landonwjohnson-on-youtube" target="_parent">
-  <img src="https://img.shields.io/youtube/channel/views/UCSL8U9S-SurzEYi0eHpXkTg" alt="Landon Johnson On YouTube" style="max-width: 100%;" />
-</a>
+<a href="https://bit.ly/landonwjohnson-on-youtube" target="_parent"><img src="https://img.shields.io/youtube/channel/views/UCSL8U9S-SurzEYi0eHpXkTg" alt="Landon Johnson On YouTube" style="max-width: 100%;" /></a>
 
-<a href="https://bit.ly/devlander-discord-invite" target="_parent">
-  <img alt="Discord Devlander" src="https://img.shields.io/badge/Discord-Devlander-%235865F2" />
-</a>
+<a href="https://bit.ly/devlander-discord-invite" target="_parent"><img alt="Discord Devlander" src="https://img.shields.io/badge/Discord-Devlander-%235865F2" /></a>
   <img alt="Discord Devlander" src="https://wakatime.com/badge/user/bd50b6c5-e0ca-4937-83b3-ab2d13adbc73.svg" />
 
 
