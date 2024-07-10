@@ -35,6 +35,7 @@ I'm a passionate developer dedicated to creating helpful tools, content, and com
 - [Package JSON Helper](https://bit.ly/package-json-helper)
 - [Utilities Collection](https://bit.ly/3PnEnJE)
 - [React Native Hooks Collection](https://bit.ly/3Pn4QH3)
+- [React Native Higher Order Components Collection](https://bit.ly/devlander-higher-order-components-github)
 
 ## ⚡ Skills I'm Currently Learning:
 
