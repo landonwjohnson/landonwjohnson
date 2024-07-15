@@ -29,8 +29,9 @@ Welcome to my GitHub space where I share projects, resources, and updates to hel
 
 ## 👋 Hello! I'm Landon Johnson
 
-I'm a passionate developer dedicated to creating helpful tools, content, and communities. Here are some of the npm packages I've published:
+I'm a passionate developer dedicated to creating helpful tools, content, and communities. Here are some of the packages I've created
 
+### NPM Packages
 - [Collect Exports For Bundle](https://bit.ly/collect-exports-for-bundle)
 - [Package JSON Helper](https://bit.ly/package-json-helper)
 - [JS Utilities Collection](https://bit.ly/3PnEnJE)
