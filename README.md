@@ -31,8 +31,7 @@ Welcome to my GitHub space where I share projects, resources, and updates to hel
 I'm a passionate developer dedicated to creating helpful tools, content, and communities. Here are some of the packages I've created
 
 ### NPM Packages
-My motivation for creating my own npm packages, is so that i can build relaible functiosn taht have been tested out, that i know work
-that can be imported to any project, to keep things DRY as possible. 
+My motivation for creating my own npm packages is to build reliable, well-tested functions that can be imported into any project. This approach ensures that I maintain DRY (Don't Repeat Yourself) principles, promoting code reuse and efficiency.
 
 | Name                                                   | Downloads                                                                                           | Written For Projects Using                                                                                                              | Description                                                                                                                      |
 |--------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
