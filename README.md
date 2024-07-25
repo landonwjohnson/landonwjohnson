@@ -61,4 +61,4 @@ My motivation for creating my own npm packages is to build reliable, well-tested
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonwjohnson&layout=compact)
 
-Feel free to reach out to me with ideas, suggestions, or just to say hi! 🚀
+I'd love to hear your ideas, suggestions, or even just a friendly hello! 🚀 The best way to get my attention is by commenting on my YouTube videos—your input means a lot to me and I always look forward to engaging with you there!
