@@ -26,17 +26,22 @@ Welcome to my GitHub space where I share projects, resources, and updates to hel
   <img alt="Discord Devlander" src="https://wakatime.com/badge/user/bd50b6c5-e0ca-4937-83b3-ab2d13adbc73.svg" />
 
 
-
 ## 👋 Hello! I'm Landon Johnson
 
 I'm a passionate developer dedicated to creating helpful tools, content, and communities. Here are some of the packages I've created
 
 ### NPM Packages
-- [Collect Exports For Bundle](https://bit.ly/collect-exports-for-bundle)
-- [JS Utilities Collection](https://bit.ly/3PnEnJE)
-- [React Hooks Collection](https://bit.ly/3Pn4QH3)
-- [React Higher Order Components Collection](https://bit.ly/devlander-higher-order-components-github)
-- [Colors](https://bit.ly/colors-javascript-package)
+My motivation for creating my own npm packages, is so that i can build relaible functiosn taht have been tested out, that i know work
+that can be imported to any project, to keep things DRY as possible. 
+
+| Name                                                   | Downloads                                                                                           | Written For Projects Using                                                                                                              | Description                                                                                                                      |
+|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| [Colors](https://bit.ly/colors-javascript-package)     | ![npm downloads](https://img.shields.io/npm/dm/@devlander/colors.svg)                               | ![javascript](https://img.shields.io/badge/javascript-d5b931)                                                                            | A powerful library for handling hex, rgba, and rgb codes, allowing you to adjust brightness, merge colors, and perform precise color manipulations with built-in validation.       |
+| [Collect Exports For Bundle](https://bit.ly/collect-exports-for-bundle) | ![npm downloads](https://img.shields.io/npm/dm/@devlander/collect-exports-for-bundle.svg)            | ![javascript](https://img.shields.io/badge/javascript-d5b931)                                                                            | Simplify your bundling process by effortlessly consolidating exports from a directory into a single index file.                                     |
+| [JS Utilities Collection](https://bit.ly/3PnEnJE)      | ![npm downloads](https://img.shields.io/npm/dm/@devlander/utils.svg)                                | ![javascript](https://img.shields.io/badge/javascript-d5b931)                                                                            | A versatile collection of vanilla JavaScript and TypeScript utility functions, reusable across any platform to enhance your development efficiency.                               |
+| [React Hooks Collection](https://bit.ly/3Pn4QH3)       | ![npm downloads](https://img.shields.io/npm/dm/@devlander/hooks.svg)                                | ![react](https://img.shields.io/badge/react-8A2BE2) <br> ![reactnative](https://img.shields.io/badge/reactnative-357da1)               | A comprehensive set of React and React Native hooks designed to streamline state and effect management across your projects.                                                                 |
+| [React Higher Order Components Collection](https://bit.ly/devlander-higher-order-components-github) | ![npm downloads](https://img.shields.io/npm/dm/@devlander/higher-order-components.svg)                                | ![react](https://img.shields.io/badge/react-8A2BE2) <br> ![reactnative](https://img.shields.io/badge/reactnative-357da1)               | A curated collection of higher order components for React and React Native, designed to enhance component reusability and maintainability.                                                                             |
+
 
 ## ⚡ Skills I'm Currently Learning:
 
