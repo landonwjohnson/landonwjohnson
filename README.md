@@ -17,8 +17,7 @@ Welcome to my GitHub space where I share projects, resources, and updates to hel
       </a>
     </td>
       <td>
-[![Hits](https://hits.sh/github.com/landonwjohnson/landonwjohnson.svg?label=Profile%20Views)](https://hits.sh/github.com/landonwjohnson/landonwjohnson/)
-      </td>
+[![Hits](https://hits.sh/github.com/landonwjohnson/landonwjohnson.svg?label=Profile%20Views)](https://hits.sh/github.com/landonwjohnson/landonwjohnson/)      </td>
   </tr>
 </table>
 
