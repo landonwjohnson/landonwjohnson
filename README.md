@@ -19,6 +19,9 @@ Welcome to my GitHub space where I share projects, resources, and updates to hel
   </tr>
 </table>
 
+![Hits](https://hits.sh/landonwjohnson/README.svg)
+
+
 
 <a href="https://bit.ly/landonwjohnson-on-youtube" target="_parent"><img src="https://img.shields.io/youtube/channel/views/UCSL8U9S-SurzEYi0eHpXkTg" alt="Landon Johnson On YouTube" style="max-width: 100%;" /></a>
 
