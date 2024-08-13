@@ -16,10 +16,12 @@ Welcome to my GitHub space where I share projects, resources, and updates to hel
         <img width="100%" src="https://res.cloudinary.com/landonwebdev/image/upload/v1707770149/thumbnails/how-to-check-your-mac-harddrive-storage.png" alt="How to Check Your Mac Hard Drive Storage" />
       </a>
     </td>
+      <td>
+[![Hits](https://hits.sh/github.com/landonwjohnson/landonwjohnson.svg?label=Profile%20Views)](https://hits.sh/github.com/landonwjohnson/landonwjohnson/)
+      </td>
   </tr>
 </table>
 
-![Hits](https://hits.sh/landonwjohnson/landonwjohnson.svg)
 
 
 
