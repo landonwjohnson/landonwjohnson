@@ -16,8 +16,6 @@ Welcome to my GitHub space where I share projects, resources, and updates to hel
         <img width="100%" src="https://res.cloudinary.com/landonwebdev/image/upload/v1707770149/thumbnails/how-to-check-your-mac-harddrive-storage.png" alt="How to Check Your Mac Hard Drive Storage" />
       </a>
     </td>
-      <td>
-[![Hits](https://hits.sh/github.com/landonwjohnson/landonwjohnson.svg?label=Profile%20Views)](https://hits.sh/github.com/landonwjohnson/landonwjohnson/)      </td>
   </tr>
 </table>
 
@@ -29,6 +27,7 @@ Welcome to my GitHub space where I share projects, resources, and updates to hel
 <a href="https://bit.ly/devlander-discord-invite" target="_parent"><img alt="Discord Devlander" src="https://img.shields.io/badge/Discord-Devlander-%235865F2" /></a>
   <img alt="Discord Devlander" src="https://wakatime.com/badge/user/bd50b6c5-e0ca-4937-83b3-ab2d13adbc73.svg" />
 
+[![Hits](https://hits.sh/github.com/landonwjohnson/landonwjohnson.svg?label=Profile%20Views)](https://hits.sh/github.com/landonwjohnson/landonwjohnson/)
 
 ## 👋 Hello! I'm Landon Johnson
 
