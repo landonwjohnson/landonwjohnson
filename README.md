@@ -19,7 +19,7 @@ Welcome to my GitHub space where I share projects, resources, and updates to hel
   </tr>
 </table>
 
-![Hits](https://hits.sh/landonwjohnson/README.svg)
+![Hits](https://hits.sh/landonwjohnson/landonwjohnson.svg)
 
 
 
