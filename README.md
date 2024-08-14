@@ -62,6 +62,8 @@ Discover the NPM packages I have created, designed to offer reliable, well-teste
 - [YouTube Channel](https://bit.ly/47otldB)
 
 ## 🏆 Wakatime Stats
+Please note that these stats only reflect public repositories and do not account for private repos. Most of the public repositories on my profile aren't intended as showcase pieces. The personal code that matters to me is kept private, as it involves apps in production or live websites where privacy is essential. 
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonwjohnson&layout=compact)
 
