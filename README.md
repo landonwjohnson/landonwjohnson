@@ -48,9 +48,8 @@ Discover the NPM packages I have created, designed to offer reliable, well-teste
 ## ⚡ Skills I'm Currently Learning:
 
 - SwiftUI
-- React Native Web
-- Storybook
-- Rollup
+- StyleXJS
+- Google App Scripts
 
 ## 🔍 What I'm Looking For:
 
@@ -62,8 +61,7 @@ Discover the NPM packages I have created, designed to offer reliable, well-teste
 - [YouTube Channel](https://bit.ly/47otldB)
 
 ## 🏆 Wakatime Stats
-Please note that these stats only reflect public repositories and do not account for private repos. Most of the public repositories on my profile aren't intended as showcase pieces. The personal code that matters to me is kept private, as it involves apps in production or live websites where privacy is essential. 
-
+<sub> Please note that these stats only reflect public repositories and do not include private repos. Most of the public repositories on my profile aren't intended as showcase pieces. The personal code that truly represents my work is kept private because it involves apps in production or live websites where privacy is crucial. The public repositories on my profile do not showcase my best work as a developer, but I plan to eventually share code that meets my standards. Also, keep in mind that the stats are not entirely accurate—I’ve done much more TypeScript than JavaScript, along with significantly more PHP, Python, and Swift. </sub>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonwjohnson&layout=compact)
 
