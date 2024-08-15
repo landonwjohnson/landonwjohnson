@@ -31,10 +31,17 @@ Welcome to my GitHub space where I share projects, resources, and updates to hel
 
 ## 👋 Hello! I'm Landon Johnson
 
-I'm a passionate developer dedicated to creating helpful tools, content, and communities. 
+I'm a passionate developer who enjoys creating tools and content and engaging with the community. I embrace failing fast, iterating quickly, and constantly seeking growth. Programming is more than just a job for me—it's a way to give back. My hobbies frequently involve computers, where I'm always building on or branching off from the skills I've already developed. 
 
 ### NPM Packages
-Discover the NPM packages I have created, designed to offer reliable, well-tested functions for seamless integration into any project. My motivation lies in building robust code through test-driven development, promoting DRY (Don't Repeat Yourself) principles, and enhancing code reuse and efficiency. This approach streamlines development, reduces redundancy, and fosters a productive coding environment, making your projects more efficient and maintainable.
+Explore the NPM packages I've built and designed for seamless integration and reliable performance. I promote DRY (Don't Repeat Yourself) principles and improve project code reuse and efficiency.
+
+These packages are for personal use, helping me manage shared code across projects to save time and avoid repetition. They're not intended for broad adoption. While the documentation is minimal, it's available for anyone interested. These packages are practical tools to meet my needs—they're not designed to have catchy names or to be groundbreaking ideas. I don't plan on using them in projects at companies that hire me as an employee. They are stepping stones and enjoyable learning projects created to maintain productivity.
+
+> "If you are not embarrassed by the first version of your product, you’ve launched too late." — Reid Hoffman
+
+
+ If the idea were solid and fun, I would be interested in collaborating with other people to build a meaningful NPM package.
 
 | <sub>Name</sub>                                                      | <sub>Downloads</sub>                                                                                        | <sub>For</sub>                                                                                        | <sub>Description</sub>                                                                                                                     |
 |----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -46,10 +53,10 @@ Discover the NPM packages I have created, designed to offer reliable, well-teste
 
 
 ## ⚡ Skills I'm Currently Learning:
+I've been exploring SwiftUI, StyleXJS, and Google App Script in my spare time for fun. After working with React Native, I found it essential to understand the native code behind cross-platform frameworks like SwiftUI. While cross-platform solutions are helpful depending on project needs, I enjoy the efficiency of sharing a single codebase across platforms, which I've been doing with React Native with Storybook using Atomic Design Patterns, which can currently be imported to iOS, Android, tvOS, and Xbox. I will say that native code is unbeatable; I plan to learn more Swift and Kotlin in the future without overextending myself. Depending on the requirements of the project, it's not realistic to have a single code base, and I do think it's necessary to develop for each platform individually 
 
-- SwiftUI
-- StyleXJS
-- Google App Scripts
+I've also been trying out StyleXJS from Meta. It's more user-friendly for cross-platform development and code sharing, so it caught my attention.
+Lastly, I'm learning Google App Script to build web applications and add-ons for personal projects. It's been a rewarding experience so far.
 
 ## 🔍 What I'm Looking For:
 
@@ -61,7 +68,8 @@ Discover the NPM packages I have created, designed to offer reliable, well-teste
 - [YouTube Channel](https://bit.ly/47otldB)
 
 ## 🏆 Wakatime Stats
-<sub> Please note that these stats only reflect public repositories and do not include private repos. Most of the public repositories on my profile aren't intended as showcase pieces. The personal code that truly represents my work is kept private because it involves apps in production or live websites where privacy is crucial. The public repositories on my profile do not showcase my best work as a developer, but I plan to eventually share code that meets my standards. Also, keep in mind that the stats are not entirely accurate—I’ve done much more TypeScript than JavaScript, along with significantly more PHP, Python, and Swift. </sub>
+<sub> Please note that these stats only reflect public repositories and do not include private repos. Most of the public repositories on my profile are intended to be something other than showcase pieces. The personal code representing my work is kept private because it involves apps in production or live websites where privacy is crucial. The public repositories on my profile do not showcase my best work as a developer. However, I plan to share code that eventually meets my standards. Also, remember that the stats are not entirely accurate—I've done much more TypeScript than JavaScript, along with significantly more PHP, Python, and Swift.
+</sub>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonwjohnson&layout=compact)
 
