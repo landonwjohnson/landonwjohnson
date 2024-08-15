@@ -35,9 +35,12 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 [![Hits](https://hits.sh/github.com/landonwjohnson/landonwjohnson.svg?label=Profile%20Views)](https://hits.sh/github.com/landonwjohnson/landonwjohnson/)
 
 ## 👋 Hello! I'm Landon Johnson
-<sub>
-I am a Fullstack Developer who thrives on rapid iteration and continuous growth. Programming is more than a profession—it's a means to contribute and share knowledge. My journey began as a Computer Technician, diagnosing and troubleshooting computers remotely. I then moved into design and motion graphics before transitioning to software development professionally. Interestingly, I've always pursued these passions outside of work, whether dismantling computers, starting new projects, or creating animations as a teenager, long before they became part of my career.
 
+<sub>
+I am a Fullstack Developer who thrives on rapid iteration and continuous growth. Programming is more than a profession—it's a means to contribute and share knowledge. My journey began as a Computer Technician, diagnosing and troubleshooting computers remotely. I then moved into design and motion graphics before transitioning to software development professionally. Interestingly, I've always pursued these passions outside of work, whether dismantling computers, starting new projects, or creating animations long before they became part of my career.
+</sub>
+
+<sub>
 I love building things, and Software Engineering excites me because it empowers you to bring any idea to life. My hobbies revolve around computers, where I am constantly honing my skills. I'm dedicated to lifelong learning and aspire to inspire others to do the same.
 </sub>
 
