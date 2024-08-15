@@ -31,13 +31,10 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 
 ## 👋 Hello! I'm Landon Johnson
 <sub>
-I'm a passionate developer who enjoys creating tools and content and engaging with the community. I embrace failing fast, iterating quickly, and constantly seeking growth. Programming is more than just a job for me—it's a way to give back. Most of my hobbies have always involved computers, where I'm always building on or branching off from the skills I've already developed. I'm committed to continuous learning and hope to inspire others to do the same.  
+I am a Fullstack Developer that values fast iteration and constant growth. Programming isn't just a job; it's a way to contribute and share knowledge. My hobbies center around computers, where I continuously build on my skills. I'm committed to continuous learning, and hope to inspire others to do the same.  
 </sub>
 
 ### NPM Packages
-
-<sub>Discover the NPM packages I've developed and designed for seamless integration and reliable performance. These packages are built to promote DRY (Don't Repeat Yourself) principles and enhance project code reuse and efficiency.</sub>
-
 
 <sub>These packages are for personal use, helping me manage shared code across projects to save time and avoid repetition. They are practical tools to meet my needs—they're not designed to have catchy names or groundbreaking ideas. They're stepping stones and enjoyable learning projects created to maintain productivity. </sub>
 
@@ -58,7 +55,7 @@ I'm a passionate developer who enjoys creating tools and content and engaging wi
 
 ## ⚡ Skills I'm Currently Learning:
 <sub>
-Exploring SwiftUI, StyleXJS, and Google App Script in my spare time has been rewarding. After working with React Native, I've focused on understanding the native code behind cross-platform frameworks like SwiftUI. While I'm fascinated by having one codebase for multiple platforms, I recognize that it's not always realistic, depending on the project requirements. You have more control and better performance when programming individually for each platform. I use React Native with Atomic Design Patterns to maintain a consistent user experience across iOS, Android, tvOS, and Xbox platforms. </sub>
+I've been exploring SwiftUI, StorybookJS, React Native Web, StyleXJS, and Google App Script in my spare time. After working with React Native, I've focused on understanding the native code behind cross-platform frameworks like SwiftUI. I recognize that while one codebase for multiple platforms is appealing, programming individually for each platform offers better control and performance. I use React Native with Atomic Design Patterns to ensure a consistent user experience across iOS, Android, Web, tvOS, AndroidTV and Xbox.</sub>
 
 <sub>I've also been experimenting with StyleXJS from Meta for its user-friendly approach to cross-platform development. Additionally, I'm learning Google App Script to build web applications and add-ons for personal projects. </sub>
 
