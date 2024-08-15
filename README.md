@@ -86,4 +86,4 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 
 ## Want to collaborate with me?
 
-If you'd like to collaborate on a project, send me your best pitch! You can get in touch with me by clicking [here](mailto:youremail@example.com?subject=I%20want%20to%20build%20something%20with%20you,%20I%20got%20your%20email%20from%20GitHub)
+If you'd like to collaborate on a project, send me your best pitch! You can get in touch with me by clicking [here](mailto:contact@landonjohnson.dev?subject=I%20want%20to%20build%20something%20with%20you%20Landon,%20I%20got%20your%20email%20from%20GitHub)
