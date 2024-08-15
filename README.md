@@ -36,17 +36,16 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 
 ## 👋 Hello! I'm Landon Johnson
 
-<sub>
-I am a Fullstack Developer driven by rapid iteration and a commitment to continuous growth. For me, programming is not just a profession—it's a way to contribute and share knowledge with others. My journey began as a Computer Technician, where I diagnosed and troubleshooted computers remotely. I later ventured into design and motion graphics before making a professional shift to software development. Interestingly, these passions have always been a part of my life, whether it was dismantling computers, starting new projects, or creating animations—long before they became my career. Just to clarify, I'm only available for Software Engineering roles.
-</sub>
+<sub>I am a <strong> Fullstack Developer </strong> driven by rapid iteration and a commitment to continuous growth. For me, programming is not just a profession—it's a way to contribute and share knowledge with others. My journey began as a <strong> Computer Technician </strong>, where I diagnosed and troubleshooted computers remotely. I later ventured into <strong> Design and Motion Graphics </strong> before making a professional shift to software development. Interestingly, these passions have always been a part of my life, whether it was dismantling computers, starting new projects, or creating animations—long before they became my career.</sub>  
 
-<sub>
-I love building things, and Software Engineering excites me because it empowers you to bring any idea to life. My hobbies revolve around computers, where I am constantly honing my skills. I'm dedicated to lifelong learning and aspire to inspire others to do the same.
-</sub>
+<sub>Just to clarify, <strong> I'm only available for Software Engineering roles </strong>. </sub> 
+
+
+<sub>I love building things, and Software Engineering excites me because it empowers you to bring any idea to life. My hobbies revolve around computers, where I am constantly honing my skills. I'm dedicated to lifelong learning and aspire to inspire others to do the same.</sub>
 
 ### NPM Packages
 
-<sub>These packages are for personal use, helping me manage shared code across projects to save time and avoid repetition. They are practical tools to meet my needs—they're not designed to have catchy names or groundbreaking ideas. They're stepping stones and enjoyable learning projects created to maintain productivity. </sub>
+<sub>These packages are for personal use, helping me manage shared code across projects to save time and avoid repetition. They are practical tools to meet my needs—they're not designed to have catchy names or groundbreaking ideas. They're stepping stones and enjoyable <strong>learning projects created to maintain productivity. </strong> </sub>  
 
 <br />
 
@@ -61,13 +60,12 @@ I love building things, and Software Engineering excites me because it empowers 
 | [React Hooks](https://devlander-react-hooks.netlify.app)             | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/hooks.svg)</sub>                             | <sub>![react](https://img.shields.io/badge/react-8A2BE2) <br> ![reactnative](https://img.shields.io/badge/reactnative-357da1)</sub>        | <sub>React and React Native hooks for streamlined state and effect management.</sub>                                                       |
 | [React HOC's](https://bit.ly/devlander-higher-order-components-github) | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/higher-order-components.svg)</sub>           | <sub>![react](https://img.shields.io/badge/react-8A2BE2) <br> ![reactnative](https://img.shields.io/badge/reactnative-357da1)</sub>        | <sub>Higher order components for React and React Native to enhance reusability and maintainability.</sub>                                  |
 
-
-
 ## ⚡ Skills I'm Currently Learning:
-<sub>
-I've been exploring SwiftUI, StorybookJS, React Native Web, StyleXJS, and Google App Script in my spare time. After working with React Native, I've focused on understanding the native code behind cross-platform frameworks like SwiftUI. I recognize that while one codebase for multiple platforms is appealing, programming individually for each platform offers better control and performance. I use React Native with Atomic Design Patterns to ensure a consistent user experience across iOS, Android, Web, tvOS, AndroidTV and Xbox.</sub>
 
-<sub>I've also been experimenting with StyleXJS from Meta for its user-friendly approach to cross-platform development. Additionally, I'm learning Google App Script to build web applications and add-ons for personal projects. </sub>
+<sub>I've been exploring <strong>SwiftUI</strong>, <strong>[StorybookJS](https://storybook.js.org)</strong>, <strong>[Expo Router](https://docs.expo.dev/router/introduction/)</strong>, <strong>[React Native Web](https://necolas.github.io/react-native-web/)</strong>, <strong>[StyleXJS](https://stylexjs.com)</strong>, and <strong>[Google App Script](https://www.google.com/script/start/)</strong> in my spare time. After working with <strong>React Native</strong>, I've focused on understanding the native code behind cross-platform frameworks like <strong>SwiftUI</strong>. I recognize that while one codebase for multiple platforms is appealing, programming individually for each platform offers better control and performance. I use <strong>React Native</strong> with <strong>[Atomic Design Patterns](https://atomicdesign.bradfrost.com/chapter-2/)
+</strong> to ensure a consistent user experience across <strong>iOS</strong>, <strong>Android</strong>, <strong>Web</strong>, <strong>[tvOS](https://github.com/react-native-tvos/react-native-tvos)</strong>, <strong>[Android TV](https://github.com/react-native-tvos/react-native-tvos)</strong> and <strong>[Xbox](https://microsoft.github.io/react-native-windows).</strong></sub>  
+<br />
+<sub>I've also been experimenting with <strong>StyleXJS</strong> from Meta for its user-friendly approach to <strong>cross-platform development</strong>. Additionally, I'm learning <strong>Google App Script</strong> to build <strong>Web Applications</strong> and <strong>add-ons</strong> for personal projects. </sub>
 
 ## 🔍 What I'm Looking For:
 
@@ -84,3 +82,8 @@ I've been exploring SwiftUI, StorybookJS, React Native Web, StyleXJS, and Google
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonwjohnson&layout=compact)
 
 <sub>I'd love to hear your ideas, suggestions, or even just a friendly hello! 🚀 The best way to get my attention is by commenting on my YouTube videos—your input means a lot to me and I always look forward to engaging with you there!</sub>
+
+
+## Want to collaborate with me?
+
+If you'd like to collaborate on a project, send me your best pitch! You can get in touch with me by clicking [here](mailto:youremail@example.com?subject=I%20want%20to%20build%20something%20with%20you,%20I%20got%20your%20email%20from%20GitHub)
