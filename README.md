@@ -27,7 +27,7 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 <a href="https://bit.ly/devlander-discord-invite" target="_parent"><img alt="Discord Devlander" src="https://img.shields.io/badge/Discord-Devlander-%235865F2" /></a>
   <img alt="Discord Devlander" src="https://wakatime.com/badge/user/bd50b6c5-e0ca-4937-83b3-ab2d13adbc73.svg" />
 
-<a href="https://bit.ly/fb-web-developers-of-utah" target="_parent"><img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=facebook&logoSize=small" alt="Facebook Software Engineer Group Utah"  /></a>
+<a href="https://bit.ly/fb-web-developers-of-utah" target="_parent"><img src="https://img.shields.io/badge/web%20developers%20of%20utah%20group-grey?style=for-the-badge&logo=facebook&logoSize=small" alt="Facebook Software Engineer Group Utah"  /></a>
 
 
 
