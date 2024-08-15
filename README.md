@@ -1,7 +1,7 @@
 # 🏠 [Landon Johnson](https://www.linkedin.com/in/landonwjohnson/)'s GitHub Home! ✨
 
 <sub> Welcome to my GitHub space where I share projects, resources, and updates to help developers and enthusiasts alike. Here, you'll find my published npm packages, content, and the skills I'm currently working on! </sub>
-
+<br />
 ## 🔍 Explore Useful Guides and Resources
 
 <table>
@@ -34,13 +34,15 @@
 <sub>
 I'm a passionate developer who enjoys creating tools and content and engaging with the community. I embrace failing fast, iterating quickly, and constantly seeking growth. Programming is more than just a job for me—it's a way to give back. My hobbies frequently involve computers, where I'm always building on or branching off from the skills I've already developed. 
 </sub>
-
+<br />
 ### NPM Packages
 <sub>
-Explore the NPM packages I've built and designed for seamless integration and reliable performance. I promote DRY (Don't Repeat Yourself) principles and improve project code reuse and efficiency.
+Explore the NPM packages I've built and designed for seamless integration and reliable performance.
+I promote DRY (Don't Repeat Yourself) principles and improve project code reuse and efficiency.
 
 These packages are for personal use, helping me manage shared code across projects to save time and avoid repetition. They're not intended for broad adoption. While the documentation is minimal, it's available for anyone interested. These packages are practical tools to meet my needs—they're not designed to have catchy names or to be groundbreaking ideas. I don't plan on using them in projects at companies that hire me as an employee. They are stepping stones and enjoyable learning projects created to maintain productivity.
 </sub>
+<br />
 > "If you are not embarrassed by the first version of your product, you’ve launched too late." — Reid Hoffman
 
 <br />
@@ -48,7 +50,7 @@ These packages are for personal use, helping me manage shared code across projec
 <sub>
  If the idea were solid and fun, I would be interested in collaborating with other people to build a meaningful NPM package.
  </sub>
-
+<br />
 | <sub>Name</sub>                                                      | <sub>Downloads</sub>                                                                                        | <sub>For</sub>                                                                                        | <sub>Description</sub>                                                                                                                     |
 |----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | [Colors](https://devlander-colors.netlify.app)                       | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/colors.svg)</sub>                            | <sub>![JSProjects](https://img.shields.io/badge/JSProjects-d5b931)</sub>                              | <sub>Handles hex, rgba, and rgb codes for brightness adjustments, color merging, and precise manipulations with validation.</sub>          |
@@ -56,7 +58,7 @@ These packages are for personal use, helping me manage shared code across projec
 | [React Hooks](https://devlander-react-hooks.netlify.app)             | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/hooks.svg)</sub>                             | <sub>![react](https://img.shields.io/badge/react-8A2BE2) <br> ![reactnative](https://img.shields.io/badge/reactnative-357da1)</sub>        | <sub>React and React Native hooks for streamlined state and effect management.</sub>                                                       |
 | [React HOC's](https://bit.ly/devlander-higher-order-components-github) | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/higher-order-components.svg)</sub>           | <sub>![react](https://img.shields.io/badge/react-8A2BE2) <br> ![reactnative](https://img.shields.io/badge/reactnative-357da1)</sub>        | <sub>Higher order components for React and React Native to enhance reusability and maintainability.</sub>                                  |
 
-
+<br />
 
 ## ⚡ Skills I'm Currently Learning:
 <sub>
@@ -80,9 +82,9 @@ Lastly, I'm learning Google App Script to build web applications and add-ons for
 ## 🏆 Wakatime Stats
 <sub> Please note that these stats only reflect public repositories and do not include private repos. Most of the public repositories on my profile are intended to be something other than showcase pieces. The personal code representing my work is kept private because it involves apps in production or live websites where privacy is crucial. The public repositories on my profile do not showcase my best work as a developer. However, I plan to share code that eventually meets my standards. Also, remember that the stats are not entirely accurate—I've done much more TypeScript than JavaScript, along with significantly more PHP, Python, and Swift.
 </sub>
-
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonwjohnson&layout=compact)
-
+<br />
 <sub>
 I'd love to hear your ideas, suggestions, or even just a friendly hello! 🚀 The best way to get my attention is by commenting on my YouTube videos—your input means a lot to me and I always look forward to engaging with you there!
 </sub>
