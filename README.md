@@ -1,6 +1,6 @@
 # 🏠 [Landon Johnson](https://www.linkedin.com/in/landonwjohnson/)'s GitHub Home! ✨
 
-Welcome to my GitHub space where I share projects, resources, and updates to help developers and enthusiasts alike. Here, you'll find my published npm packages, content, and the skills I'm currently working on!
+<sub> Welcome to my GitHub space where I share projects, resources, and updates to help developers and enthusiasts alike. Here, you'll find my published npm packages, content, and the skills I'm currently working on! </sub>
 
 ## 🔍 Explore Useful Guides and Resources
 
@@ -31,17 +31,21 @@ Welcome to my GitHub space where I share projects, resources, and updates to hel
 
 ## 👋 Hello! I'm Landon Johnson
 
+<sub>
 I'm a passionate developer who enjoys creating tools and content and engaging with the community. I embrace failing fast, iterating quickly, and constantly seeking growth. Programming is more than just a job for me—it's a way to give back. My hobbies frequently involve computers, where I'm always building on or branching off from the skills I've already developed. 
+</sub>
 
 ### NPM Packages
+<sub>
 Explore the NPM packages I've built and designed for seamless integration and reliable performance. I promote DRY (Don't Repeat Yourself) principles and improve project code reuse and efficiency.
 
 These packages are for personal use, helping me manage shared code across projects to save time and avoid repetition. They're not intended for broad adoption. While the documentation is minimal, it's available for anyone interested. These packages are practical tools to meet my needs—they're not designed to have catchy names or to be groundbreaking ideas. I don't plan on using them in projects at companies that hire me as an employee. They are stepping stones and enjoyable learning projects created to maintain productivity.
-
+</sub>
 > "If you are not embarrassed by the first version of your product, you’ve launched too late." — Reid Hoffman
 
-
+<sub>
  If the idea were solid and fun, I would be interested in collaborating with other people to build a meaningful NPM package.
+ </sub>
 
 | <sub>Name</sub>                                                      | <sub>Downloads</sub>                                                                                        | <sub>For</sub>                                                                                        | <sub>Description</sub>                                                                                                                     |
 |----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -53,10 +57,14 @@ These packages are for personal use, helping me manage shared code across projec
 
 
 ## ⚡ Skills I'm Currently Learning:
+<sub>
 I've been exploring SwiftUI, StyleXJS, and Google App Script in my spare time for fun. After working with React Native, I found it essential to understand the native code behind cross-platform frameworks like SwiftUI. While cross-platform solutions are helpful depending on project needs, I enjoy the efficiency of sharing a single codebase across platforms, which I've been doing with React Native with Storybook using Atomic Design Patterns, which can currently be imported to iOS, Android, tvOS, and Xbox. I will say that native code is unbeatable; I plan to learn more Swift and Kotlin in the future without overextending myself. Depending on the requirements of the project, it's not realistic to have a single code base, and I do think it's necessary to develop for each platform individually 
+</sub>
 
+<sub>
 I've also been trying out StyleXJS from Meta. It's more user-friendly for cross-platform development and code sharing, so it caught my attention.
 Lastly, I'm learning Google App Script to build web applications and add-ons for personal projects. It's been a rewarding experience so far.
+</sub>
 
 ## 🔍 What I'm Looking For:
 
@@ -73,4 +81,6 @@ Lastly, I'm learning Google App Script to build web applications and add-ons for
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonwjohnson&layout=compact)
 
+<sub>
 I'd love to hear your ideas, suggestions, or even just a friendly hello! 🚀 The best way to get my attention is by commenting on my YouTube videos—your input means a lot to me and I always look forward to engaging with you there!
+</sub>
