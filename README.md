@@ -37,7 +37,7 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 ## 👋 Hello! I'm Landon Johnson
 
 <sub>
-I am a Fullstack Developer who thrives on rapid iteration and continuous growth. Programming is more than a profession—it's a means to contribute and share knowledge. My journey began as a Computer Technician, diagnosing and troubleshooting computers remotely. I then moved into design and motion graphics before transitioning to software development professionally. Interestingly, I've always pursued these passions outside of work, whether dismantling computers, starting new projects, or creating animations long before they became part of my career.
+I am a Fullstack Developer driven by rapid iteration and a commitment to continuous growth. For me, programming is not just a profession—it's a way to contribute and share knowledge with others. My journey began as a Computer Technician, where I diagnosed and troubleshooted computers remotely. I later ventured into design and motion graphics before making a professional shift to software development. Interestingly, these passions have always been a part of my life, whether it was dismantling computers, starting new projects, or creating animations—long before they became my career. Just to clarify, I'm only available for Software Engineering roles.
 </sub>
 
 <sub>
