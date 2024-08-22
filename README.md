@@ -94,7 +94,7 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 <sub>I'd love to hear your ideas, suggestions, or even just a friendly hello! 🚀 The best way to get my attention is by commenting on my YouTube videos—your input means a lot to me and I always look forward to engaging with you there!</sub>
 
 
-## Want to collaborate with me?
+## ✉️ Want to collaborate with me?
 
 If you'd like to collaborate on a project, send me your best pitch! You can get in touch with me by clicking [here](mailto:contact@landonjohnson.dev?subject=I%20want%20to%20build%20something%20with%20you%20Landon,%20I%20got%20your%20email%20from%20GitHub)
 
