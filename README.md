@@ -80,9 +80,9 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 
 ## 📚 GitHub Resources
 
-| Title                                                                                       | Description                                                                                                             |
+| <sub>Title        </sub>                                                                               | <sub> Description                </sub>                                                                                             |
 |---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| [My Scrum Template](https://bit.ly/devlander-scrum-github-template)                                       | This is a boiler plate github project template for my starter projects                                                    |
+| [My Scrum Template](https://bit.ly/devlander-scrum-github-template)                                       | <sub> This is a boiler plate github project template for my starter projects  </sub>                                                  |
 
 <br />
 
