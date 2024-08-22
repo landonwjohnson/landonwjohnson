@@ -84,7 +84,7 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 |---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
 | [My Scrum Template](https://bit.ly/devlander-scrum-github-template)                                       | This is a boiler plate github project template for my starter projects                                                    |
 
----
+<br />
 
 ## 🏆 Wakatime Stats
 <sub>These stats only reflect public repositories and exclude private ones. Most of my personal code is kept private due to its involvement in production apps or live websites. The public repositories do not represent my best work, but I plan to share code that meets my standards eventually. The stats also don't accurately reflect my experience, especially in TypeScript, PHP, Python, and Swift.</sub>
