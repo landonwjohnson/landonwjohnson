@@ -1,4 +1,4 @@
-# 🏠 [Landon Johnson](https://www.linkedin.com/in/landonwjohnson/)'s GitHub Home! ✨
+# 🏠 [Landon Johnson](https://bit.ly/landon-johnson-on-linkedin)'s GitHub Home! ✨
 
 Welcome to my GitHub space, where I share what kind of technologies I have been learning outside of the workplace. 
 
