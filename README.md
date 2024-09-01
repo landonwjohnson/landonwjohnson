@@ -87,7 +87,7 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 ## 🏆 Wakatime Stats
 <sub>These stats only reflect public repositories and exclude private ones. Most of my personal code is kept private due to its involvement in production apps or live websites. The public repositories do not represent my best work, but I plan to share code that meets my standards eventually. The stats also don't accurately reflect my experience, especially in TypeScript, PHP, Python, and Swift.</sub>
 
-Quick Tip: Click the charts to enlarge them for a closer look.
+<b>Quick Tip</b>: Click the charts to enlarge them for a closer look.
 
 <table>
   <tr>
@@ -97,7 +97,7 @@ Quick Tip: Click the charts to enlarge them for a closer look.
       </a>
     </td>
     <td>
-      <a href="https://wakatime.com/share/@landonwjohnson/34b25c0b-eb6b-43e5-8570-a88bd1e2f224.png" target="_blank">
+      <a href="https://bit.ly/landon-wakatime-30-days-categories-bar-chart" target="_blank">
         <img src="https://wakatime.com/share/@landonwjohnson/34b25c0b-eb6b-43e5-8570-a88bd1e2f224.png" alt="WakaTime 2" />
       </a>
     </td>
@@ -107,14 +107,14 @@ Quick Tip: Click the charts to enlarge them for a closer look.
 <table>
   <tr>
     <td>
-      <a href="https://wakatime.com/share/@landonwjohnson/7ddd3d84-d6ab-4c54-8934-d30aaac99816.png" target="_blank">
+      <a href="https://bit.ly/landon-wakatime-os-bar-chart-all-time" target="_blank">
         <img src="https://wakatime.com/share/@landonwjohnson/7ddd3d84-d6ab-4c54-8934-d30aaac99816.png" alt="WakaTime OS Bar Chart" />
       </a>
     </td>
     <td>
-      <a href="https://wakatime.com/share/@landonwjohnson/b9139014-add9-4211-be6b-6fbdec99a1a9.png" target="_blank">
-        <img src="https://wakatime.com/share/@landonwjohnson/b9139014-add9-4211-be6b-6fbdec99a1a9.png" alt="WakaTime 4" />
-      </a>
+   <a href="https://bit.ly/landon-wakatime-stats-editor-30-day-doughnut-chart" target="_blank">
+    <img src="https://wakatime.com/share/@landonwjohnson/dd998ee9-a480-4560-be4f-4b4eb69097bc.png" alt="WakaTime Editors Dougnut Chart" />
+</a>
     </td>
   </tr>
 </table>
