@@ -93,12 +93,12 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
   <tr>
     <td>
       <a href="https://bit.ly/landon-johnson-languages-30-days-doughnut-chart-wakatime" target="_blank">
-        <img src="https://wakatime.com/share/@landonwjohnson/c51f8f14-d154-4c63-8700-de5369f7c87a.png" alt="WakaTime 1" />
+        <img src="https://wakatime.com/share/@landonwjohnson/c51f8f14-d154-4c63-8700-de5369f7c87a.png" alt="Landon Johnson Software Engineer Coding Languages Last 30 Days Doughnut Chart Wakatime Stats" />
       </a>
     </td>
     <td>
       <a href="https://bit.ly/landon-wakatime-30-days-categories-bar-chart" target="_blank">
-        <img src="https://wakatime.com/share/@landonwjohnson/34b25c0b-eb6b-43e5-8570-a88bd1e2f224.png" alt="WakaTime 2" />
+        <img src="https://wakatime.com/share/@landonwjohnson/34b25c0b-eb6b-43e5-8570-a88bd1e2f224.png" alt="Landon Johnson Software Engineer Categories Last 30 Days Doughnut Chart Wakatime Stats" />
       </a>
     </td>
   </tr>
@@ -108,12 +108,12 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
   <tr>
     <td>
       <a href="https://bit.ly/landon-wakatime-os-bar-chart-all-time" target="_blank">
-        <img src="https://wakatime.com/share/@landonwjohnson/7ddd3d84-d6ab-4c54-8934-d30aaac99816.png" alt="WakaTime OS Bar Chart" />
+        <img src="https://wakatime.com/share/@landonwjohnson/7ddd3d84-d6ab-4c54-8934-d30aaac99816.png" alt="Landon Johnson Software Engineer Operating Systems All Time Doughnut Chart Wakatime Stats" />
       </a>
     </td>
     <td>
    <a href="https://bit.ly/landon-wakatime-stats-editor-30-day-doughnut-chart" target="_blank">
-    <img src="https://wakatime.com/share/@landonwjohnson/dd998ee9-a480-4560-be4f-4b4eb69097bc.png" alt="WakaTime Editors Dougnut Chart" />
+    <img src="https://wakatime.com/share/@landonwjohnson/dd998ee9-a480-4560-be4f-4b4eb69097bc.png" alt="Landon Johnson Software Engineer Editors All Time Doughnut Chart Wakatime Stats" />
 </a>
     </td>
   </tr>
