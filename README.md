@@ -85,7 +85,8 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 <br />
 
 ## 🏆 Wakatime Stats
-<sub>These stats only reflect public repositories and exclude private ones. Most of my personal code is kept private due to its involvement in production apps or live websites. The public repositories do not represent my best work, but I plan to share code that meets my standards eventually. The stats also don't accurately reflect my experience, especially in TypeScript, PHP, Python, and Swift.</sub>
+<sub>These stats only reflect public repositories and exclude private ones. Most of my personal code is kept private due to its involvement in production apps or live websites. The public repositories do not represent my best work, but I plan to share code that meets my standards eventually. The stats also don't accurately reflect my experience, especially in TypeScript, PHP, Python, and Swift.
+</sub>
 
 <b>Quick Tip</b>: Click the charts to enlarge them for a closer look.
 
