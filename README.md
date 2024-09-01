@@ -92,7 +92,7 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 <table>
   <tr>
     <td>
-      <a href="https://wakatime.com/share/@landonwjohnson/c51f8f14-d154-4c63-8700-de5369f7c87a.png" target="_blank">
+      <a href="https://bit.ly/landon-johnson-languages-30-days-doughnut-chart-wakatime" target="_blank">
         <img src="https://wakatime.com/share/@landonwjohnson/c51f8f14-d154-4c63-8700-de5369f7c87a.png" alt="WakaTime 1" />
       </a>
     </td>
