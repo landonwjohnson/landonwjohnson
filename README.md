@@ -98,7 +98,7 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 
 
 
-<sub>I'd love to hear your ideas, suggestions, or even just a friendly hello! 🚀 The best way to get my attention is by commenting on my YouTube videos—your input means a lot to me and I always look forward to engaging with you there!</sub>
+<sub>I'd love to hear your ideas, suggestions, or even a friendly hello! 🚀 The best way to reach me is by commenting on my YouTube videos—your feedback means a lot, and I always enjoy engaging with you there. If you're interested in collaborating, check the details below.</sub>
 
 
 ## ✉️ Want to collaborate with me?
