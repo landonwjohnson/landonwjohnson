@@ -90,13 +90,13 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 <table>
   <tr>
     <td>
-      <a href="https://wakatime.com/share/@landonwjohnson/c51f8f14-d154-4c63-8700-de5369f7c87a.png">
-        <img src="https://wakatime.com/share/@landonwjohnson/c51f8f14-d154-4c63-8700-de5369f7c87a.png" alt="WakaTime 1" style="cursor: pointer;"/>
+      <a href="https://wakatime.com/share/@landonwjohnson/c51f8f14-d154-4c63-8700-de5369f7c87a.png" target="_blank">
+        <img src="https://wakatime.com/share/@landonwjohnson/c51f8f14-d154-4c63-8700-de5369f7c87a.png" alt="WakaTime 1" />
       </a>
     </td>
     <td>
-      <a href="https://wakatime.com/share/@landonwjohnson/34b25c0b-eb6b-43e5-8570-a88bd1e2f224.png">
-        <img src="https://wakatime.com/share/@landonwjohnson/34b25c0b-eb6b-43e5-8570-a88bd1e2f224.png" alt="WakaTime 2" style="cursor: pointer;"/>
+      <a href="https://wakatime.com/share/@landonwjohnson/34b25c0b-eb6b-43e5-8570-a88bd1e2f224.png" target="_blank">
+        <img src="https://wakatime.com/share/@landonwjohnson/34b25c0b-eb6b-43e5-8570-a88bd1e2f224.png" alt="WakaTime 2" />
       </a>
     </td>
   </tr>
@@ -105,13 +105,13 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
 <table>
   <tr>
     <td>
-      <a href="https://wakatime.com/share/@landonwjohnson/7ddd3d84-d6ab-4c54-8934-d30aaac99816.png">
-        <img src="https://wakatime.com/share/@landonwjohnson/7ddd3d84-d6ab-4c54-8934-d30aaac99816.png" alt="WakaTime OS Bar Chart" style="cursor: pointer;"/>
+      <a href="https://wakatime.com/share/@landonwjohnson/7ddd3d84-d6ab-4c54-8934-d30aaac99816.png" target="_blank">
+        <img src="https://wakatime.com/share/@landonwjohnson/7ddd3d84-d6ab-4c54-8934-d30aaac99816.png" alt="WakaTime OS Bar Chart" />
       </a>
     </td>
     <td>
-      <a href="https://wakatime.com/share/@landonwjohnson/b9139014-add9-4211-be6b-6fbdec99a1a9.png">
-        <img src="https://wakatime.com/share/@landonwjohnson/b9139014-add9-4211-be6b-6fbdec99a1a9.png" alt="WakaTime 4" style="cursor: pointer;"/>
+      <a href="https://wakatime.com/share/@landonwjohnson/b9139014-add9-4211-be6b-6fbdec99a1a9.png" target="_blank">
+        <img src="https://wakatime.com/share/@landonwjohnson/b9139014-add9-4211-be6b-6fbdec99a1a9.png" alt="WakaTime 4" />
       </a>
     </td>
   </tr>
