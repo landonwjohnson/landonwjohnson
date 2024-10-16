@@ -19,7 +19,28 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
   </tr>
 </table>
 
+<br />
 
+
+### 📖 Medium Articles
+Click on the image to read them
+<table>
+  <tr>
+    <td>
+      <a href="https://medium.com/devlander/how-to-install-git-on-your-mac-and-windows-1dc13b49e42e" target="_blank">
+        <img width="100%" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*N7GPQuv-SWy0QHczBfL4fA.png" alt="How to install git on windows and mac" />
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@landonwjohnson/install-docker-on-windows-11-step-by-step-guide-for-a-fresh-wsl-2-setup-8945d1830c41" target="_blank">
+        <img width="100%" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*wn45rYyMzS8Xzfq1zXgU_w.png"
+" alt="How to install docker on windows 11" />
+      </a>
+   
+  </tr>
+</table>
+
+<br />
 
 
 <a href="https://bit.ly/landonwjohnson-on-youtube" target="_parent"><img src="https://img.shields.io/youtube/channel/views/UCSL8U9S-SurzEYi0eHpXkTg" alt="Landon Johnson On YouTube" style="max-width: 100%;" /></a>
