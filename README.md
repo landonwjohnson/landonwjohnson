@@ -3,7 +3,8 @@
 Welcome to my GitHub space, where I share what kind of technologies I have been learning outside of the workplace. 
 
 ## 🔍 Explore Useful Guides and Resources
-
+Click on the images to visit websites
+### YouTube Videos
 <table>
   <tr>
     <td>
@@ -19,11 +20,8 @@ Welcome to my GitHub space, where I share what kind of technologies I have been 
   </tr>
 </table>
 
-<br />
-
-
 ### 📖 Medium Articles
-Click on the image to read them
+
 <table>
   <tr>
     <td>
