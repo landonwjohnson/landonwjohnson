@@ -25,14 +25,14 @@ Click on the images to visit websites
 <table>
   <tr>
     <td>
-      <a href="https://medium.com/devlander/how-to-install-git-on-your-mac-and-windows-1dc13b49e42e" target="_blank">
-        <img width="100%" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*N7GPQuv-SWy0QHczBfL4fA.png" alt="How to install git on windows and mac" />
+      <a href="https://medium.com/devlander/a-comprehensive-guide-to-securing-your-api-for-web-and-mobile-applications-using-expressjs-12123cfedf06" target="_blank">
+        <img width="100%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*CDQmrRAOTIKVrvHBsWtYDQ.png" alt="How to secure your api in NodeJS" />
       </a>
     </td>
     <td>
-      <a href="https://medium.com/@landonwjohnson/install-docker-on-windows-11-step-by-step-guide-for-a-fresh-wsl-2-setup-8945d1830c41" target="_blank">
-        <img width="100%" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*wn45rYyMzS8Xzfq1zXgU_w.png"
-" alt="How to install docker on windows 11" />
+      <a href="https://medium.com/devlander/youre-using-context-providers-the-wrong-way-here-s-how-to-fix-it-c91247b6e828" target="_blank">
+        <img width="100%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*GkLLgTScG70Kvtb7w4Z-iQ.jpeg"
+" alt="How to use React Context the right way" />
       </a>
    
   </tr>
@@ -47,6 +47,9 @@ Click on the images to visit websites
   <img alt="Discord Devlander" src="https://wakatime.com/badge/user/bd50b6c5-e0ca-4937-83b3-ab2d13adbc73.svg" />
 
 <a href="https://bit.ly/fb-web-developers-of-utah" target="_parent"><img src="https://img.shields.io/badge/web%20developers%20of%20utah%20group-grey?style=for-the-badge&logo=facebook&logoSize=small" alt="Facebook Software Engineer Group Utah"  /></a>
+
+[![Reddit](https://img.shields.io/badge/Reddit-r%2Fsoftwareengineersutah-orange?logo=reddit)](https://www.reddit.com/r/softwareengineersutah/)
+
 
 
 
@@ -72,10 +75,14 @@ Click on the images to visit websites
 
 <br />
 
+
 | <sub>Name</sub>                                                      | <sub>Downloads</sub>                                                                                        | <sub>For</sub>                                                                                        | <sub>Description</sub>                                                                                                                     |
 |----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| [JS Utilities](https://devlander-utils.netlify.app)                  | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/utils.svg)</sub>                             | <sub>![JSProjects](https://img.shields.io/badge/JSProjects-d5b931)</sub>                              | <sub>Collection of JavaScript and TypeScript utility functions for enhanced efficiency.</sub>                                               |
-| [React Hooks](https://devlander-react-hooks.netlify.app)             | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/hooks.svg)</sub>                             | <sub>![react](https://img.shields.io/badge/react-8A2BE2) <br> ![reactnative](https://img.shields.io/badge/reactnative-357da1)</sub>        | <sub>React and React Native hooks for streamlined state and effect management.</sub>                                                       |
+| [JS Utilities](https://devlander-utils.netlify.app)                  | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/utils.svg)</sub>                             | <sub>![JSProjects](https://img.shields.io/badge/JSProjects-d5b931)</sub>                              | <sub>JavaScript and TypeScript utility functions for efficiency.</sub>                                                                     |
+| [React Hooks](https://devlander-react-hooks.netlify.app)             | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/hooks.svg)</sub>                             | <sub>![react](https://img.shields.io/badge/react-8A2BE2) <br> ![reactnative](https://img.shields.io/badge/reactnative-357da1)</sub>        | <sub>React hooks for state and effect management.</sub>                                                                                    |
+| [Colors](https://www.npmjs.com/package/@devlander/colors)            | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/colors.svg)</sub>                            | <sub>![JSProjects](https://img.shields.io/badge/JSProjects-d5b931)</sub>                              | <sub>Color utilities for pickers, schemes, and palettes.</sub>                                                                             |
+| [Higher Order Components](https://www.npmjs.com/package/@devlander/higher-order-components) | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/higher-order-components.svg)</sub>           | <sub>![react](https://img.shields.io/badge/react-8A2BE2)</sub>                                        | <sub>React Native higher-order components for integration.</sub>                                                                           |
+
 
 ## ⚡ Skills I'm Currently Learning:
 
