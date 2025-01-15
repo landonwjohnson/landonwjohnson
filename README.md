@@ -102,11 +102,15 @@ Click on the images to visit websites
 
 
 
+Here is a properly formatted version of your table with consistent formatting and without `<sub>` tags, as they are unnecessary for Markdown tables:
+
 ## 📚 GitHub Resources
 
-| <sub>Title        </sub>                                                                               | <sub> Description                </sub>                                                                                             |
-|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| [My Scrum Template](https://bit.ly/devlander-scrum-github-template)                                       | <sub> This is a boiler plate github project template for my starter projects  </sub>                                                  |
+| Title                                                                                   | Description                                                                                                                                                                                                                           |
+|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [My Scrum Template](https://bit.ly/devlander-scrum-github-template)                     | This is a boilerplate GitHub project template for my starter projects.                                                                                                                                                                |
+| [How to Build an NPM Package](https://github.com/Devlander-Software/build-npm-package-example) | This repo is a series of blog articles and tutorials that go over how to create an NPM package from scratch, starting from an empty repo, setting up Babel, using TypeScript, Rollup, setting up Jest tests, GitHub actions, release notes, etc. | 
+
 
 <br />
 
