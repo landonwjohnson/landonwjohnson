@@ -96,10 +96,6 @@ I create technical tutorials covering software development, troubleshooting, and
 
 A reusable GitHub project template for organizing development projects.
 
-### [How to Build an NPM Package](https://github.com/Devlander-Software/build-npm-package-example)
-
-A walkthrough covering how to build an NPM package from scratch, including TypeScript, Babel, Rollup, Jest, GitHub Actions, release notes, and publishing.
-
 ## 🎯 Current Focus
 
 I’m continuing to deepen my experience with:
