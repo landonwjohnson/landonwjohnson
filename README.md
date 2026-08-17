@@ -2,7 +2,7 @@
 
 **Full-Stack & Mobile Software Engineer** building production applications with React Native, TypeScript, React, Node.js, and Swift.
 
-[🌐 Website](https://landonjohnson.dev) · [💼 LinkedIn](https://linkedin.com/in/landonwjohnson) · [▶️ YouTube](https://youtube.com/@landonwjohnson) · [✉️ Email](mailto:contact@landonjohnson.dev)
+[🌐 Website](https://landonjohnson.dev) · [💼 LinkedIn](https://linkedin.com/in/landonwjohnson) · [▶️ YouTube](https://youtube.com/@techwithlandon) · [✉️ Email](mailto:contact@landonjohnson.dev)
 
 [![Hits](https://hits.sh/github.com/landonwjohnson/landonwjohnson.svg?label=Profile%20Views)](https://hits.sh/github.com/landonwjohnson/landonwjohnson/)
 
@@ -86,9 +86,9 @@ I maintain several reusable packages primarily created to improve consistency ac
 
 ## 🎥 Developer Guides
 
-I also create technical tutorials covering software development, troubleshooting, and developer tooling.
+I create technical tutorials covering software development, troubleshooting, and developer tooling.
 
-[▶️ Watch my videos on YouTube](https://youtube.com/@landonwjohnson)
+[▶️ Watch Tech With Landon on YouTube](https://youtube.com/@techwithlandon)
 
 ## 📚 GitHub Resources
 
@@ -116,4 +116,4 @@ I’m open to **mobile, full-stack, and product-focused software engineering rol
 
 If you're building something interesting and think my experience could be a fit, feel free to reach out.
 
-[🌐 landonjohnson.dev](https://landonjohnson.dev) · [💼 LinkedIn](https://linkedin.com/in/landonwjohnson) · [▶️ YouTube](https://youtube.com/@landonwjohnson) · [✉️ contact@landonjohnson.dev](mailto:contact@landonjohnson.dev)
+[🌐 landonjohnson.dev](https://landonjohnson.dev) · [💼 LinkedIn](https://linkedin.com/in/landonwjohnson) · [▶️ YouTube](https://youtube.com/@techwithlandon) · [✉️ contact@landonjohnson.dev](mailto:contact@landonjohnson.dev)
