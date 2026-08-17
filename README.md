@@ -1,181 +1,119 @@
-# 🏠 [Landon Johnson](https://bit.ly/landon-johnson-on-linkedin)'s GitHub Home! ✨
+# Landon Johnson
 
-Welcome to my GitHub, where I share the technologies I’m exploring outside of my professional work.
+**Full-Stack & Mobile Software Engineer** building production applications with React Native, TypeScript, React, Node.js, and Swift.
 
-
-## 🔍 Explore Useful Guides and Resources
-Click on the images to visit websites
-### YouTube Videos
-<table>
-  <tr>
-    <td>
-      <a href="https://bit.ly/how-to-fix-android-emulator-hyper-visor" target="_blank">
-        <img width="100%" src="https://res.cloudinary.com/landonwebdev/image/upload/v1707770149/thumbnails/android-emulator-hypervisor-fix.png" alt="Android Emulator Hypervisor Fix" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-### 📖 Medium Articles
-
-<table>
-  <tr>
-    <td>
-      <a href="https://medium.com/devlander/a-comprehensive-guide-to-securing-your-api-for-web-and-mobile-applications-using-expressjs-12123cfedf06" target="_blank">
-        <img width="100%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*CDQmrRAOTIKVrvHBsWtYDQ.png" alt="How to secure your api in NodeJS" />
-      </a>
-    </td>
-    <td>
-      <a href="https://medium.com/devlander/youre-using-context-providers-the-wrong-way-here-s-how-to-fix-it-c91247b6e828" target="_blank">
-        <img width="100%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*GkLLgTScG70Kvtb7w4Z-iQ.jpeg"
-" alt="How to use React Context the right way" />
-      </a>
-   
-  </tr>
-</table>
-
-<br />
-
-
-<a href="https://bit.ly/landonwjohnson-on-youtube" target="_parent"><img src="https://img.shields.io/youtube/channel/views/UCSL8U9S-SurzEYi0eHpXkTg" alt="Landon Johnson On YouTube" style="max-width: 100%;" /></a>
-
-
-<a href="https://bit.ly/fb-web-developers-of-utah" target="_parent"><img src="https://img.shields.io/badge/web%20developers%20of%20utah%20group-grey?style=for-the-badge&logo=facebook&logoSize=small" alt="Facebook Software Engineer Group Utah"  /></a>
-
+[🌐 Website](https://landonjohnson.dev) · [💼 LinkedIn](https://linkedin.com/in/landonwjohnson) · [▶️ YouTube](https://youtube.com/@landonwjohnson) · [✉️ Email](mailto:contact@landonjohnson.dev)
 
 [![Hits](https://hits.sh/github.com/landonwjohnson/landonwjohnson.svg?label=Profile%20Views)](https://hits.sh/github.com/landonwjohnson/landonwjohnson/)
 
+## 👋 About Me
 
-<br />
+I’m a full-stack software engineer with 8+ years of development experience, with a strong focus on mobile and cross-platform product development.
 
+I build production applications across **iOS, Android, and web**, with experience in mobile architecture, APIs, authentication, real-time systems, offline-first data, BLE/IoT integrations, and cloud infrastructure.
 
-<br />
+I enjoy taking products from idea to production, rapidly iterating on features, solving difficult technical problems, and building software people actually use.
 
-## 👋 Hello! I'm Landon Johnson
+## ⚡ Core Technologies
 
-I’m Landon Johnson, a Full-Stack Developer passionate about creating solutions through rapid iteration and continuous learning. My journey started in Computer Support, evolved through Design and Motion Graphics, and led me to my true passion: software development.
+**Mobile & Frontend**
 
-I’m focused on software engineering roles where I can build, collaborate, and grow. I love working on innovative ideas and am always eager to explore new technologies. 
+React Native · Expo · TypeScript · JavaScript · React · Next.js · Swift · SwiftUI
 
+**Backend**
 
-<br />
+Node.js · NestJS · Express · PostgreSQL · MongoDB · Redis · WebSockets
 
+**Cloud & Infrastructure**
 
-<br />
+AWS · Cloudflare R2 · Vercel · Fly.io · GitHub Actions · CI/CD
 
-### NPM Packages
+**Testing & Tooling**
 
-<sub>I create NPM packages primarily for personal use and to maintain consistency across projects. Here are a few:</sub>  
+Storybook · Vitest · Playwright · Detox · Fastlane · Git
 
-<br />
+## 🚀 Selected Work
 
-> "If you are not embarrassed by the first version of your product, you’ve launched too late." — Reid Hoffman
+### Lion Energy Mobile
 
-<br />
+Production React Native application integrating mobile devices with batteries and other connected hardware through **Bluetooth Low Energy and AWS IoT**.
 
+- Built BLE communication and device reconnection workflows.
+- Implemented offline-first telemetry persistence.
+- Converted binary device data into application-ready telemetry.
+- Developed functionality supporting production iOS and Android applications.
+- Worked with React Native, AWS IoT Core, BLE, and offline data synchronization.
 
-<br />
+### Find Your Player Two
 
+Cross-platform social and community platform built across mobile and web.
 
-| <sub>Name</sub>                                                      | <sub>Downloads</sub>                                                                                        | <sub>For</sub>                                                                                        | <sub>Description</sub>                                                                                                                     |
-|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| [JS Utilities](https://devlander-utils.netlify.app)                  | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/utils.svg)</sub>                             | <sub>![JSProjects](https://img.shields.io/badge/JSProjects-d5b931)</sub>                              | <sub>JavaScript and TypeScript utility functions for efficiency.</sub>                                                                     |
-| [React Hooks](https://devlander-react-hooks.netlify.app)             | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/hooks.svg)</sub>                             | <sub>![reactnative](https://img.shields.io/badge/reactnative-357da1)</sub>        | <sub>React hooks for state and effect management.</sub>                                                                                    |
-| [Colors](https://www.npmjs.com/package/@devlander/colors)            | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/colors.svg)</sub>                            | <sub>![JSProjects](https://img.shields.io/badge/JSProjects-d5b931)</sub>                              | <sub>Color utilities for pickers, schemes, and palettes.</sub>                                                                             |
-| [Higher Order Components](https://www.npmjs.com/package/@devlander/higher-order-components) | <sub>![npm downloads](https://img.shields.io/npm/dm/@devlander/higher-order-components.svg)</sub>           | <sub> ![reactnative](https://img.shields.io/badge/reactnative-357da1)</sub>   | <sub>React Native higher-order components for integration.</sub>                                                                           |
+- Built with **Expo, React Native, Next.js, and NestJS**.
+- Developed real-time messaging using WebSockets.
+- Built authentication and account verification systems.
+- Integrated Discord, Steam, and gaming-related services.
+- Built infrastructure using PostgreSQL, Redis, Cloudflare R2, Vercel, and Fly.io.
+- Shared functionality across iOS, Android, and web.
 
+### The Raw Outdoors
 
+Subscription-based video streaming platform built for mobile and web.
 
-<br />
+- Developed React Native and Expo applications.
+- Integrated subscription and account functionality.
+- Implemented video streaming experiences.
+- Built administration and content-management functionality.
 
+### FindAnHerb
 
-<br />
+Mobile and web platform for discovering herbs, remedies, and related educational information.
 
-## ⚡ Skills I'm Currently Learning:
+- Built React Native mobile applications and a Next.js administration platform.
+- Developed Express APIs and MongoDB-backed data systems.
+- Managed a database containing hundreds of herbs, ailments, and remedies.
+- Helped take the product from development through public launch.
 
-I’m currently expanding my skills in:
-- SwiftUI
-- StorybookJS
-- Expo Router
-- React Native Web
-- StyleXJS
+## 📦 NPM Packages
 
+I maintain several reusable packages primarily created to improve consistency across my projects.
 
-<br />
+| Package | Description |
+|---|---|
+| [@devlander/utils](https://www.npmjs.com/package/@devlander/utils) | JavaScript and TypeScript utility functions. |
+| [@devlander/hooks](https://www.npmjs.com/package/@devlander/hooks) | Reusable React and React Native hooks. |
+| [@devlander/colors](https://www.npmjs.com/package/@devlander/colors) | Utilities for colors, palettes, and color schemes. |
+| [@devlander/higher-order-components](https://www.npmjs.com/package/@devlander/higher-order-components) | Higher-order components for React Native projects. |
 
+## 🎥 Developer Guides
 
-<br />
+I also create technical tutorials covering software development, troubleshooting, and developer tooling.
 
-## 🔍 What I'm Looking For:
-
-- Collaborative projects with like-minded developers.
-- Open to remote software engineering roles and local opportunities and willing to relocate if needed.
-
-
-
-<br />
-
-
-<br />
+[▶️ Watch my videos on YouTube](https://youtube.com/@landonwjohnson)
 
 ## 📚 GitHub Resources
 
-| Title                                                                                   | Description                                                                                                                                                                                                                           |
-|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [My Scrum Template](https://bit.ly/devlander-scrum-github-template)                     | This is a boilerplate GitHub project template for my starter projects.                                                                                                                                                                |
-| [How to Build an NPM Package](https://github.com/Devlander-Software/build-npm-package-example) | This repo is a series of blog articles and tutorials that go over how to create an NPM package from scratch, starting from an empty repo, setting up Babel, using TypeScript, Rollup, setting up Jest tests, GitHub actions, release notes, etc. | 
+### [My Scrum Template](https://bit.ly/devlander-scrum-github-template)
 
+A reusable GitHub project template for organizing development projects.
 
-<br />
+### [How to Build an NPM Package](https://github.com/Devlander-Software/build-npm-package-example)
 
+A walkthrough covering how to build an NPM package from scratch, including TypeScript, Babel, Rollup, Jest, GitHub Actions, release notes, and publishing.
 
-<br />
+## 🎯 Current Focus
 
-## 🏆 Wakatime Stats
-<sub>These stats reflect activity on public repositories. My significant work is private due to my involvement with production apps or live websites.
-</sub>
+I’m continuing to deepen my experience with:
 
-<b>Quick Tip</b>: Click the charts to enlarge them for a closer look.
+- Swift and SwiftUI
+- Mobile application architecture
+- Cross-platform application development
+- Developer tooling
+- Testing and automation
 
-<table>
-  <tr>
-    <td>
-      <a href="https://bit.ly/landon-johnson-languages-30-days-doughnut-chart-wakatime" target="_blank">
-        <img src="https://wakatime.com/share/@landonwjohnson/c51f8f14-d154-4c63-8700-de5369f7c87a.png" alt="Landon Johnson Software Engineer Coding Languages Last 30 Days Doughnut Chart Wakatime Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://bit.ly/landon-wakatime-30-days-categories-bar-chart" target="_blank">
-        <img src="https://wakatime.com/share/@landonwjohnson/34b25c0b-eb6b-43e5-8570-a88bd1e2f224.png" alt="Landon Johnson Software Engineer Categories Last 30 Days Doughnut Chart Wakatime Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
+## 💼 Open to Opportunities
 
-<table>
-  <tr>
-    <td>
-      <a href="https://bit.ly/landon-wakatime-os-bar-chart-all-time" target="_blank">
-        <img src="https://wakatime.com/share/@landonwjohnson/7ddd3d84-d6ab-4c54-8934-d30aaac99816.png" alt="Landon Johnson Software Engineer Operating Systems All Time Doughnut Chart Wakatime Stats" />
-      </a>
-    </td>
-    <td>
-   <a href="https://bit.ly/landon-wakatime-stats-editor-30-day-doughnut-chart" target="_blank">
-    <img src="https://wakatime.com/share/@landonwjohnson/dd998ee9-a480-4560-be4f-4b4eb69097bc.png" alt="Landon Johnson Software Engineer Editors All Time Doughnut Chart Wakatime Stats" />
-</a>
-    </td>
-  </tr>
-</table>
+I’m open to **mobile, full-stack, and product-focused software engineering roles**, including remote opportunities and positions where relocation is available.
 
+If you're building something interesting and think my experience could be a fit, feel free to reach out.
 
-
-<br />
-
-<br />
-
-
-## ✉️ Want to collaborate with me?
-
-Would you be interested in working together? Feel free to reach out with your project ideas or collaboration requests! You can contact me  [here](mailto:contact@landonjohnson.dev?subject=I%20want%20to%20build%20something%20with%20you%20Landon,%20I%20got%20your%20email%20from%20GitHub)
-
-
+[🌐 landonjohnson.dev](https://landonjohnson.dev) · [💼 LinkedIn](https://linkedin.com/in/landonwjohnson) · [▶️ YouTube](https://youtube.com/@landonwjohnson) · [✉️ contact@landonjohnson.dev](mailto:contact@landonjohnson.dev)
