@@ -1,115 +1,46 @@
 # Landon Johnson
 
-**Full-Stack & Mobile Software Engineer** building production applications with React Native, TypeScript, React, Node.js, and Swift.
+**Full-Stack & Mobile Software Engineer**
+
+Building production applications with **React Native, TypeScript, React, Next.js, Node.js, and Swift**.
 
 [🌐 Website](https://landonjohnson.dev) · [💼 LinkedIn](https://linkedin.com/in/landonwjohnson) · [▶️ YouTube](https://youtube.com/@techwithlandon) · [✉️ Email](mailto:contact@landonjohnson.dev)
 
-[![Hits](https://hits.sh/github.com/landonwjohnson/landonwjohnson.svg?label=Profile%20Views)](https://hits.sh/github.com/landonwjohnson/landonwjohnson/)
-
 ## 👋 About Me
 
-I’m a full-stack software engineer with 8+ years of development experience, with a strong focus on mobile and cross-platform product development.
+Full-stack software engineer with 8+ years of experience building applications across **iOS, Android, web, backend systems, and cloud infrastructure**.
 
-I build production applications across **iOS, Android, and web**, with experience in mobile architecture, APIs, authentication, real-time systems, offline-first data, BLE/IoT integrations, and cloud infrastructure.
+I primarily work with **TypeScript, React Native, React, Node.js, PostgreSQL, Redis, and Swift**, with experience building real-time systems, APIs, authentication, offline-first applications, and cross-platform products.
 
-I enjoy taking products from idea to production, rapidly iterating on features, solving difficult technical problems, and building software people actually use.
-
-## ⚡ Core Technologies
+## ⚡ Technologies
 
 **Mobile & Frontend**
 
 React Native · Expo · TypeScript · JavaScript · React · Next.js · Swift · SwiftUI
 
-**Backend**
+**Backend & Data**
 
-Node.js · NestJS · Express · PostgreSQL · MongoDB · Redis · WebSockets
+Node.js · NestJS · Express · FastAPI · PostgreSQL · MongoDB · Redis · WebSockets · REST APIs
 
-**Cloud & Infrastructure**
+**Infrastructure & Tooling**
 
-AWS · Cloudflare R2 · Vercel · Fly.io · GitHub Actions · CI/CD
+AWS · Docker · Cloudflare R2 · Vercel · Fly.io · GitHub Actions · CI/CD · Fastlane · Playwright · Vitest · Detox · Git
 
-**Testing & Tooling**
-
-Storybook · Vitest · Playwright · Detox · Fastlane · Git
-
-## 🚀 Selected Work
-
-### Lion Energy Mobile
-
-Production React Native application integrating mobile devices with batteries and other connected hardware through **Bluetooth Low Energy and AWS IoT**.
-
-- Built BLE communication and device reconnection workflows.
-- Implemented offline-first telemetry persistence.
-- Converted binary device data into application-ready telemetry.
-- Developed functionality supporting production iOS and Android applications.
-- Worked with React Native, AWS IoT Core, BLE, and offline data synchronization.
-
-### Find Your Player Two
-
-Cross-platform social and community platform built across mobile and web.
-
-- Built with **Expo, React Native, Next.js, and NestJS**.
-- Developed real-time messaging using WebSockets.
-- Built authentication and account verification systems.
-- Integrated Discord, Steam, and gaming-related services.
-- Built infrastructure using PostgreSQL, Redis, Cloudflare R2, Vercel, and Fly.io.
-- Shared functionality across iOS, Android, and web.
-
-### The Raw Outdoors
-
-Subscription-based video streaming platform built for mobile and web.
-
-- Developed React Native and Expo applications.
-- Integrated subscription and account functionality.
-- Implemented video streaming experiences.
-- Built administration and content-management functionality.
-
-### FindAnHerb
-
-Mobile and web platform for discovering herbs, remedies, and related educational information.
-
-- Built React Native mobile applications and a Next.js administration platform.
-- Developed Express APIs and MongoDB-backed data systems.
-- Managed a database containing hundreds of herbs, ailments, and remedies.
-- Helped take the product from development through public launch.
-
-## 📦 NPM Packages
-
-I maintain several reusable packages primarily created to improve consistency across my projects.
+## 📦 Open Source
 
 | Package | Description |
 |---|---|
-| [@devlander/utils](https://www.npmjs.com/package/@devlander/utils) | JavaScript and TypeScript utility functions. |
-| [@devlander/hooks](https://www.npmjs.com/package/@devlander/hooks) | Reusable React and React Native hooks. |
-| [@devlander/colors](https://www.npmjs.com/package/@devlander/colors) | Utilities for colors, palettes, and color schemes. |
-| [@devlander/higher-order-components](https://www.npmjs.com/package/@devlander/higher-order-components) | Higher-order components for React Native projects. |
+| [@devlander/hooks](https://www.npmjs.com/package/@devlander/hooks) | Reusable React and React Native hooks |
+| [@devlander/utils](https://www.npmjs.com/package/@devlander/utils) | JavaScript and TypeScript utility functions |
 
-## 🎥 Developer Guides
+## 🎥 Tech With Landon
 
-I create technical tutorials covering software development, troubleshooting, and developer tooling.
+I create software development tutorials covering programming, developer tooling, mobile development, backend engineering, and troubleshooting.
 
-[▶️ Watch Tech With Landon on YouTube](https://youtube.com/@techwithlandon)
-
-## 📚 GitHub Resources
-
-### [My Scrum Template](https://bit.ly/devlander-scrum-github-template)
-
-A reusable GitHub project template for organizing development projects.
-
-## 🎯 Current Focus
-
-I’m continuing to deepen my experience with:
-
-- Swift and SwiftUI
-- Mobile application architecture
-- Cross-platform application development
-- Developer tooling
-- Testing and automation
+[▶️ Watch Tech With Landon](https://youtube.com/@techwithlandon)
 
 ## 💼 Open to Opportunities
 
-I’m open to **mobile, full-stack, and product-focused software engineering roles**, including remote opportunities and positions where relocation is available.
-
-If you're building something interesting and think my experience could be a fit, feel free to reach out.
+Open to **Senior Software Engineer, Full-Stack Engineer, and Mobile Engineer** roles.
 
 [🌐 landonjohnson.dev](https://landonjohnson.dev) · [💼 LinkedIn](https://linkedin.com/in/landonwjohnson) · [▶️ YouTube](https://youtube.com/@techwithlandon) · [✉️ contact@landonjohnson.dev](mailto:contact@landonjohnson.dev)
